@@ -121,7 +121,7 @@ To deploy this project run
 
   npm run deploy
 Demo
-Insert gif or link to demo
+[Insert gif or link to demo](http://salehalkolaidi.github.io/masterLec7/)
 
 Contributing
 Contributions are always welcome!
